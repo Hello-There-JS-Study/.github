@@ -5,6 +5,21 @@ JavaScript coding test study
 - 목표: [프로그래머스 알고리즘 고득점](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) kit 전부 도전하는 스터디
 - 언어: 자바스크립트
 
+## 레포 구조
+- 공통 레포 Hello-There-JS-Study 
+   - 코테 레포 Programmers
+
+- 코테 1기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/1
+- 코테 2기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/2
+
+## 인증 방법
+1) 매주 tracking 하는 이슈(ex. [seonu] week 01 solutions)를 생성합니다. 템플릿을 복붙합니다. (참고 링크: https://github.com/Hello-There-JS-Study/Programmers/issues/16)
+2) 매일 해당 문제를 풀고, PR을 올립니다. (https://github.com/Hello-There-JS-Study/Programmers/pull/17)
+3) 1)에서 생성했던 이슈에 체크 표시합니다.
+
+(방장이 PR과 매주 tracking 하는 이슈를 close 시킵니다.) -> 이 부분은 다음 기수가서는 자동화할 계획입니다...
+
+
 ## 스터디 규칙
 - only 온라인
 
@@ -24,23 +39,6 @@ JavaScript coding test study
    - 참고 링크: https://github.com/Hello-There-JS-Study/Programmers/pull/17
 - branch 명: 본인 이름 ex) seonu
 
-
-## 하루 30분 루틴
-1) 문제 읽기 (0~5분)
-    - 문제 천천히 읽기
-    - 입력/출력 정리
-    - 예제 직업 따라가 보기
-  
-2) 1차 구현 (5~15분)
-    - 완벽 x
-    - 일단 돌아가게 구현
-    - console.log 적극 사용
-    - 10분 넘으면 바로 해설 확인
-
-3) 문법 정리
-    - 오늘 사용한 JS 문법 정리
-    - 예: Map, split, join, sort 등
-    - 다음에 바로 써먹을 수 있게 기록
 
 
 ## 스터디 참고 레파지토리
