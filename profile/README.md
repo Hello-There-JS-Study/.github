@@ -5,9 +5,6 @@ JavaScript coding test study
 - 목표: [프로그래머스 알고리즘 고득점](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) kit 전부 도전하는 스터디
 - 언어: 자바스크립트
 
-## 스터디 참고 레파지토리
-https://github.com/DaleStudy
-
 ## 스터디 규칙
 - only 온라인
 
@@ -44,4 +41,8 @@ https://github.com/DaleStudy
     - 오늘 사용한 JS 문법 정리
     - 예: Map, split, join, sort 등
     - 다음에 바로 써먹을 수 있게 기록
+
+
+## 스터디 참고 레파지토리
+https://github.com/DaleStudy
     
