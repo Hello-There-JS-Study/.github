@@ -13,13 +13,17 @@ JavaScript coding test study
 - 코테 2기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/2
 
 ## 인증 방법
-1) 매주 tracking 하는 이슈(ex. [seonu] week 01 solutions)를 생성합니다. 템플릿을 복붙합니다. (참고 링크: https://github.com/Hello-There-JS-Study/Programmers/issues/16)
+1) 새로 PR을 생성하면 자동으로 템플릿이 생성됩니다. 
 2) 매일 해당 문제를 풀고, PR을 올립니다. (https://github.com/Hello-There-JS-Study/Programmers/pull/17)
-3) 1)에서 생성했던 이슈에 체크 표시합니다.
+3) pr 템플릿에 이제까지 푼 문제를 체크표시 합니다.
 <img width="981" height="671" alt="스크린샷 2026-02-01 오후 6 08 23" src="https://github.com/user-attachments/assets/98cc92fb-fbf5-4136-991c-ebabc619b15c" />
+4) pr 아래에 댓글로 `오늘 기억하고자 하는 메모` 를 작성합니다.
 
-(방장이 PR과 매주 tracking 하는 이슈를 close 시킵니다.) -> 이 부분은 다음 기
-수가서는 자동화할 계획입니다...
+(방장이 매일 PR를 main에 머지합니다.) -> 이 부분은 다음 기수가서는 자동화할 계획입니다...
+
+- 정리
+  - issue: 문제 리스트
+  - pr : 각자 문제 푼 거 올리는 곳
 
 
 ## 스터디 규칙
