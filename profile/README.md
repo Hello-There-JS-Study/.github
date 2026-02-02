@@ -17,6 +17,7 @@ JavaScript coding test study
 2) 매일 해당 문제를 풀고, PR을 올립니다. (https://github.com/Hello-There-JS-Study/Programmers/pull/17)
 3) pr 템플릿에 이제까지 푼 문제를 체크표시 합니다.
 <img width="981" height="671" alt="스크린샷 2026-02-01 오후 6 08 23" src="https://github.com/user-attachments/assets/98cc92fb-fbf5-4136-991c-ebabc619b15c" />
+
 4) pr 아래에 댓글로 `오늘 기억하고자 하는 메모` 를 작성합니다.
 
 (방장이 매일 PR를 main에 머지합니다.) -> 이 부분은 다음 기수가서는 자동화할 계획입니다...
