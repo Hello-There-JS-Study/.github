@@ -11,6 +11,8 @@ JavaScript coding test study
 
 - 코테 1기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/1
 - 코테 2기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/2
+- 코테 3기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/3
+- 코테 4기 프로젝트 링크 : https://github.com/orgs/Hello-There-JS-Study/projects/4
 
 ## 인증 방법
 1) 새로 PR을 생성하면 자동으로 템플릿이 생성됩니다. 
